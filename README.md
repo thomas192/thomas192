@@ -4,6 +4,8 @@
 
 I'm a student in software cybersecurity and I love learning new things. Here you will find some of my personal and school projects. From algorithmic trading 🤖 to mobile development📱to blockchain🔗and pentesting💥, I love delving into different areas.
 
+My favorite podcasts🎙️📖: [Génération Do It Yourself](https://www.gdiy.fr/) & [Darknet Diaries](https://darknetdiaries.com/) 
+
 <hr>
 
 <p align='center'>
