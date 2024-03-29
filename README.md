@@ -1,4 +1,4 @@
-## Hi, I'm Thomas 👋
+## Hey, I'm Thomas 👋
 
 <p align='center'>
 <a href="https://leetcode.com/0xK2/"><img height="30" src="./leetcode.ico"></a>
