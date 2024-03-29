@@ -2,9 +2,6 @@
 
 <img src="./landscape.jpg">
 
-I'm a student in software engineering with a specialty in data. I love learning new things. Here you will find some of my personal and school projects. From algorithmic trading 🤖 to mobile development📱to blockchain🔗and pentesting💥, I love exploring different areas. 
-After focusing on DSA (Data Structures & Algorithms) for a while, I am now learning Rust.
-
 <hr>
 
 <p align='center'>
