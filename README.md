@@ -6,5 +6,3 @@
 <a href="https://app.onlydust.com/u/thomas192"><img height="30" src="./onlydust.ico"></a>
 <a href="https://t.me/r0xK2"><img height="30" src="./telegram.ico"></a>
 </p>
-
-<img src="chatgpt.png">
